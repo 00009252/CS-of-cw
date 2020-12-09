@@ -140,10 +140,6 @@ img{
 .show{
   right: 0;
 }
-/*show menu*/
-.show{
-  right: 0;
-}
 
 /*home*/
 .home{
@@ -167,6 +163,9 @@ img{
   bottom: 0;
   width: 295px;
   border-radius: .5rem;
+}
+.home__img img{
+  border-radius: 10%;
 }
 
 /*btns*/
